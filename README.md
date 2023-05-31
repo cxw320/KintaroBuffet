@@ -1,4 +1,4 @@
-# kintaro
+# KintaroBuffet
 
 A new Flutter project.
 
